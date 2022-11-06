@@ -32,3 +32,7 @@ The console window will have some debug messages. It might spam you, that's not 
 
 **There might be resource leaks so don't leave this running 24/7.**<br>
 *What are CComPtrs? Sounds like 'good programmer' things, so it's not for me.*
+
+| ![running the thing](./demo_image.png) |
+|:--:|
+| <sub>Image: Running the Thing</sub> | 
